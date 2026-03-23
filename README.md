@@ -26,17 +26,6 @@ npm run build
 npm run preview
 ```
 
-## Environment Variables
-
-Create a `.env` file in the root with:
-
-```
-VITE_SUPABASE_PROJECT_ID="your-project-id"
-VITE_SUPABASE_PUBLISHABLE_KEY="your-anon-key"
-VITE_SUPABASE_URL="https://your-project.supabase.co"
-VITE_VOICEFLOW_PROJECT_ID="your-voiceflow-id"
-```
-
 ## Features
 
 - Interactive AI demo with destination recommendations
