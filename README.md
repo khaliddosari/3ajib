@@ -1,6 +1,6 @@
 # 3ajib - Experience Intelligence AI
 
-AI-powered tourism experience intelligence platform built for the PwC Empowerthon hackathon (Team 5). Helps Saudi Arabian tourism destinations optimize visitor engagement, dwell time, revenue, and social media impact using AI-driven recommendations.
+AI-powered tourism experience intelligence platform built for the PwC Empowerthon hackathon (Team 5). Helps Saudi tourism destinations optimize visitor engagement, dwell time, revenue, and social media impact using AI-driven recommendations.
 
 ## Tech Stack
 
