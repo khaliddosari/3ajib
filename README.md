@@ -10,22 +10,6 @@ AI-powered tourism experience intelligence platform built for the PwC Empowertho
 - **AI Chat:** Voiceflow integration
 - **i18n:** Bilingual English/Arabic with RTL support
 
-## Getting Started
-
-```sh
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Preview the production build
-npm run preview
-```
-
 ## Features
 
 - Interactive AI demo with destination recommendations
