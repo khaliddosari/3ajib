@@ -1,0 +1,20 @@
+[33mcommit afcf22d390e38c448716f2c9ade7fb98143d6e87[m
+Author: Khalid <jc7rw9z7y9@privaterelay.appleid.com>
+Date:   Tue Mar 24 01:30:42 2026 +0300
+
+    Add GitHub Pages deployment config
+    
+    Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+
+[1mdiff --git a/package.json b/package.json[m
+[1mindex f97c70e..0c43600 100644[m
+[1m--- a/package.json[m
+[1m+++ b/package.json[m
+[36m@@ -1,6 +1,6 @@[m
+ {[m
+   "name": "vite_react_shadcn_ts",[m
+[31m-  "homepage": "https://<your-username>.github.io/3ajib",[m
+[32m+[m[32m  "homepage": "https://khaliddosari.github.io/3ajib",[m
+   "private": true,[m
+   "version": "0.0.0",[m
+   "type": "module",[m
