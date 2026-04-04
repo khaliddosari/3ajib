@@ -6,15 +6,15 @@ A B2B SaaS platform that transforms tourist destinations with AI-driven personal
 
 ## Tech Stack
 
-Framework: `React 18` + `TypeScript`
-Build Tool: `Vite`
-Styling: `Tailwind CSS` + `shadcn/ui`
-Animations: `Framer Motion`
-Backend/DB: `Supabase`
-AI Chatbot: `Voiceflow`
-n8n: `Custom useTranslation hook`
-Testing: `Vitest`
-Deployment: `GitHub Pages`
+- Framework: `React 18` + `TypeScript`
+- Build Tool: `Vite`
+- Styling: `Tailwind CSS` + `shadcn/ui`
+- Animations: `Framer Motion`
+- Backend/DB: `Supabase`
+- AI Chatbot: `Voiceflow`
+- n8n: `Custom useTranslation hook`
+- Testing: `Vitest`
+- Deployment: `GitHub Pages`
 
 ---
 
@@ -33,11 +33,11 @@ Deployment: `GitHub Pages`
 ## Process
 
 1. Identified the problem: tourist destinations lack personalized, real-time visitor engagement tools
-2. Designed a B2B SaaS model targeting destination operators (malls, parks, heritage sites)
+2. Designed a B2B SaaS model targeting destination operators (museums, heritage sites)
 3. Built a full marketing landing page to pitch the concept at the PwC hackathon
 4. Integrated Voiceflow for the AI chatbot demo
 5. Connected Supabase for any persistent data layer
-6. Added bilingual support (AR/EN) to target the Saudi/GCC market
+6. Added bilingual support (AR/EN) to target a wider market
 7. Placed 4th at PwC Middle East Smart Destinations Hackathon 2026
 
 ---
