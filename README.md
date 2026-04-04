@@ -1,4 +1,4 @@
-# 3ajib — AI-Powered Smart Destination Platform
+# 3ajib: AI-Powered Smart Destination Platform
 
 A B2B SaaS platform that transforms tourist destinations with AI-driven personalization, boosting dwell time by +54%, revenue by +33%, and social sharing by 550%. Built for and recognized at the PwC Middle East Smart Destinations Hackathon 2026.
 
